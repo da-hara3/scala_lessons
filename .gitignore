@@ -1,0 +1,12 @@
+# Eclipse files
+.project
+.classpath
+.cache-main
+.settings/
+
+# sbt files
+target/
+bin/
+project/project
+project/target
+
